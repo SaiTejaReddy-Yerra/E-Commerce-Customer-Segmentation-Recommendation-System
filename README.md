@@ -107,19 +107,3 @@ The dashboard enables business users to quickly interpret which segments need ta
 
 ---
 
-## 📁 Folder Structure
-```bash
-Customer_Segmentation_Project/
-├── data/
-│   ├── ecommerce_data.csv
-│   ├── cleaned_ecommerce_data.csv
-├── notebooks/
-│   ├── Customer_Segmentation_Enhanced.ipynb
-├── outputs/
-│   ├── rfm_metrics.csv
-│   ├── rfm_clusters.csv
-│   ├── customer_recommendations.csv
-├── dashboard/
-│   ├── Customer_Segmentation.pbix
-├── README.md
-└── Project_Summary.pdf
